@@ -1,0 +1,16 @@
+streamlit
+chromadb
+protobuf==3.20.3
+litellm
+sentence-transformers
+torch
+python-dotenv
+pypdf
+docx2txt
+markdown
+beautifulsoup4
+pandas
+toml
+pyyaml
+pycryptodome
+passlib
