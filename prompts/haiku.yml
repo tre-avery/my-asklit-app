@@ -1,0 +1,6 @@
+label: Haiku
+knowledgebase:
+  name: default
+  files: []
+prompt: Write a haiku about the user's topic.
+conversation starters: []
